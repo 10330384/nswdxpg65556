@@ -1,65 +1,49 @@
-<?xml version="1.0" encoding="gb2312"?>
-<VisualStudioUserFile
-	ProjectType="Visual C++"
-	Version="9.00"
-	ShowAllFiles="false"
-	>
-	<Configurations>
-		<Configuration
-			Name="Debug|Win32"
-			>
-			<DebugSettings
-				Command="$(TargetPath)"
-				WorkingDirectory=""
-				CommandArguments=""
-				Attach="false"
-				DebuggerType="3"
-				Remote="1"
-				RemoteMachine="CQ-201307312011"
-				RemoteCommand=""
-				HttpUrl=""
-				PDBPath=""
-				SQLDebugging=""
-				Environment=""
-				EnvironmentMerge="true"
-				DebuggerFlavor=""
-				MPIRunCommand=""
-				MPIRunArguments=""
-				MPIRunWorkingDirectory=""
-				ApplicationCommand=""
-				ApplicationArguments=""
-				ShimCommand=""
-				MPIAcceptMode=""
-				MPIAcceptFilter=""
-			/>
-		</Configuration>
-		<Configuration
-			Name="Release|Win32"
-			>
-			<DebugSettings
-				Command="$(TargetPath)"
-				WorkingDirectory=""
-				CommandArguments=""
-				Attach="false"
-				DebuggerType="3"
-				Remote="1"
-				RemoteMachine="CQ-201307312011"
-				RemoteCommand=""
-				HttpUrl=""
-				PDBPath=""
-				SQLDebugging=""
-				Environment=""
-				EnvironmentMerge="true"
-				DebuggerFlavor=""
-				MPIRunCommand=""
-				MPIRunArguments=""
-				MPIRunWorkingDirectory=""
-				ApplicationCommand=""
-				ApplicationArguments=""
-				ShimCommand=""
-				MPIAcceptMode=""
-				MPIAcceptFilter=""
-			/>
-		</Configuration>
-	</Configurations>
-</VisualStudioUserFile>
+#V201601301517RE
+127.0.0.1 localhost
+::1 localhost
+#Google Map START
+#1
+#208.117.245.81    android.clients.google.com
+#2
+208.117.245.81    clients1.google.com
+208.117.245.81    clients2.google.com
+208.117.245.81    clients3.google.com
+208.117.245.81    clients4.google.com
+208.117.245.81    clients5.google.com
+208.117.245.81    clients6.google.com
+208.117.245.81    clients7.google.com
+#3
+#208.117.245.81    clients1.googleusercontent.com
+#208.117.245.81    clients2.googleusercontent.com
+#208.117.245.81    clients3.googleusercontent.com
+#208.117.245.81    clients4.googleusercontent.com
+#208.117.245.81    clients5.googleusercontent.com
+#208.117.245.81    clients6.googleusercontent.com
+#208.117.245.81    clients7.googleusercontent.com
+#208.117.245.81    lh0.googleusercontent.com
+#208.117.245.81    lh1.googleusercontent.com
+#208.117.245.81    lh2.googleusercontent.com
+#208.117.245.81    lh3.googleusercontent.com
+#208.117.245.81    lh4.googleusercontent.com
+#208.117.245.81    lh5.googleusercontent.com
+#208.117.245.81    lh6.googleusercontent.com
+#4
+208.117.245.81    gm0.ggpht.com
+208.117.245.81    gm5.ggpht.com
+208.117.245.81    gm6.ggpht.com
+208.117.245.81    geo0.ggpht.com
+208.117.245.81    geo1.ggpht.com
+208.117.245.81    geo2.ggpht.com
+208.117.245.81    geo3.ggpht.com
+208.117.245.81    geo4.ggpht.com
+208.117.245.81    geo5.ggpht.com
+208.117.245.81    geo6.ggpht.com
+#5
+208.117.245.81    lh1.ggpht.com
+208.117.245.81    lh2.ggpht.com
+208.117.245.81    lh3.ggpht.com
+208.117.245.81    lh4.ggpht.com
+208.117.245.81    lh5.ggpht.com
+208.117.245.81    lh6.ggpht.com
+208.117.245.81    lh0.ggpht.com
+#Google Map END
